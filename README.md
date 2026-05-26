@@ -7,7 +7,7 @@
 1. 沉淀高质量问题与答案
 2. 记录实验、踩坑和复盘
 
-完整边界见 [CHARTER.md](CHARTER.md)，结构验证方法见 [STRUCTURE_EVALUATION.md](STRUCTURE_EVALUATION.md)。
+完整边界见 [CHARTER.md](CHARTER.md)，结构验证方法见 [STRUCTURE_EVALUATION.md](STRUCTURE_EVALUATION.md)，外部资料索引见 [REFERENCES.md](REFERENCES.md)。
 
 ## 从哪里开始
 
@@ -37,6 +37,7 @@
 | [experiments](experiments/README.md) | 实验记录区，保存真实尝试       | 一次实验                     |
 | [weekly](weekly/README.md)           | 每周整理区，连接碎片与稳定内容 | 一周一篇                     |
 | [topics](topics/README.md)           | 专题归档区，做阶段性总结       | 一个专题                     |
+| [REFERENCES.md](REFERENCES.md)       | 外部资料索引，集中管理参考链接 | 一条资料                     |
 
 ## 新增内容时怎么选位置
 
@@ -54,6 +55,7 @@
 .
 ├── CHARTER.md
 ├── README.md
+├── REFERENCES.md
 ├── STRUCTURE_EVALUATION.md
 ├── TOPIC_MAP.md
 ├── drafts/
