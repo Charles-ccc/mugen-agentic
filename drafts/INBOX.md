@@ -4,7 +4,6 @@
 
 ## 待回答问题
 
-- [设计] Workflow 和 Agent 的主要权衡点是什么。下一步：把权衡点拆成成本、稳定性、可解释性三组。
 - [规划] 显式规划在什么情况下真的有收益。下一步：先找出 2 类明显受益任务和 2 类不受益任务。
 - [工具] 工具调用失败后，应该如何回退、重试或交给人。下一步：先整理一个最小错误处理框架。
 - [工具] 工具数量增多时，如何避免上下文噪音和错误调用。下一步：提炼工具描述和工具选择的控制变量。
@@ -36,5 +35,6 @@
 
 ## 最近已提升
 
+- [设计] Workflow 和 Agent 的主要权衡点是什么。已整理为 [q-workflow-agent-tradeoffs.md](../questions/q-workflow-agent-tradeoffs.md)。
 - [边界] Agent 和普通 prompt automation 的边界在哪里。已整理为 [q-boundary-agent-vs-prompt-automation.md](../questions/q-boundary-agent-vs-prompt-automation.md)。
 - [边界] 什么情况下 workflow 已经够用，不需要 Agent。已整理为 [q-boundary-when-workflow-is-enough.md](../questions/q-boundary-when-workflow-is-enough.md)。
